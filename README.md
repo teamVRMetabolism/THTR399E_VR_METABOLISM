@@ -49,4 +49,9 @@ Pennefather, Patrick
 ### Current THTR399E_VR_METABOLISM Team:
 
 - Jerry Wang - Developer
-- List rest of members here!
+- Indira Sowy - Developer
+- David Kim - Developer
+- Buz Ergeneci - 3D Designer
+- Katie Baldakin - 3D Designer
+- Nika Moradi - 3D Designer
+- Robert Shum -  Advisor
