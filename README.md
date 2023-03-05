@@ -25,7 +25,7 @@ insert description here
 
 ## Getting Started
 1. Clone the repository
-2. Open the project.  The scene that is in active development is `development`.
+2. Open the project.  The scene that is in active development is _______
 
 ### Unity
 
