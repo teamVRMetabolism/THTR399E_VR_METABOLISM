@@ -8081,7 +8081,7 @@ MonoBehaviour:
   input2:
     actionPath: /actions/default/in/movement_y
     needsReinit: 0
-  speed: 1
+  speed: 2
 --- !u!114 &428155487
 MonoBehaviour:
   m_ObjectHideFlags: 0
