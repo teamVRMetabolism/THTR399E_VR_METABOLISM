@@ -10,15 +10,13 @@ public class TESTING_0_Controller : MonoBehaviour
 
     void Update()
     {
-        if (resetButton.GetLastStateDown(SteamVR_Input_Sources.Any))
-        {
+        if (resetButton.stateDown) {
             Destroy(player);
             ResetScene();
         }
     }
 
-    void ResetScene()
-    {
+    void ResetScene() {
         Object[] objects = FindObjectsOfType(typeof(GameObject));
 
         
