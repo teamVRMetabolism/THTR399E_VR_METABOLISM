@@ -10,4 +10,8 @@ public class pManager : MonoBehaviour
     public void nextScene() {
         SceneManager.LoadScene("TESTING_0");
     }
+
+    public void nextSceneGlycolysis() {
+        SceneManager.LoadScene("TESTING_1");
+    }
 }
