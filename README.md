@@ -50,7 +50,7 @@ Pennefather, Patrick
 
 - Jerry Wang - Developer
 - Indira Sowy - Developer
-- David Kim - Developer
+- David Kim - Developer.
 - Buz Ergeneci - 3D Designer
 - Katie Baldakin - 3D Designer
 - Nika Moradi - 3D Designer
