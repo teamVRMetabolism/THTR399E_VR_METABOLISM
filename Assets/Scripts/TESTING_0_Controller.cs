@@ -29,7 +29,7 @@ public class TESTING_0_Controller : MonoBehaviour
         {
             Destroy(obj);
         }
-        SceneManager.LoadScene("TESTING_0");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     void returnToMenu() {
