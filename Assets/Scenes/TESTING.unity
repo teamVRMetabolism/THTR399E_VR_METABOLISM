@@ -906,6 +906,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 401319863}
+  resetButton:
+    actionPath: /actions/default/in/Reset
+    needsReinit: 0
 --- !u!4 &629985616
 Transform:
   m_ObjectHideFlags: 0
