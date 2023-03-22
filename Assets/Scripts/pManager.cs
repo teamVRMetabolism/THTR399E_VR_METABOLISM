@@ -36,6 +36,11 @@ public class pManager : MonoBehaviour
         SceneManager.LoadScene("TESTING");
     }
 
+    public void exitApp() {
+        StopAllCoroutines();
+        System.Diagnostics.Process.GetCurrentProcess().Kill();
+        Application.Quit();
+    }
     public void nextScene() {
         Destroy(player);
         SceneManager.LoadScene("TESTING_0");

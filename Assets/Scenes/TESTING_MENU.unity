@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 155006562}
   - component: {fileID: 155006561}
   m_Layer: 5
-  m_Name: glycolysis
+  m_Name: welcome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
