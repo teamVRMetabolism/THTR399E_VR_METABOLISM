@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class TESTING_0_Controller : MonoBehaviour
 {
     public SteamVR_Action_Boolean resetButton; 
+    public SteamVR_Action_Boolean menuReturn;
     public GameObject player;
 
     void Update()
@@ -13,6 +14,10 @@ public class TESTING_0_Controller : MonoBehaviour
         if (resetButton.stateDown) {
             Destroy(player);
             ResetScene();
+        }
+        if (menuReturn.stateDown) {
+            Destroy(player);
+            returnToMenu();
         }
     }
 
@@ -25,5 +30,10 @@ public class TESTING_0_Controller : MonoBehaviour
             Destroy(obj);
         }
         SceneManager.LoadScene("TESTING_0");
+    }
+
+    void returnToMenu() {
+        SceneManager.LoadScene("TESTING");
+        
     }
 }
