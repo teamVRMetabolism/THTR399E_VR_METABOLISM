@@ -220,7 +220,37 @@ MonoBehaviour:
   input2:
     actionPath: /actions/default/in/movement_y
     needsReinit: 0
-  speed: 1
+  speed: 2
+--- !u!1 &203669726 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3484571946793333473, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
+  m_PrefabInstance: {fileID: 633436315}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &203669728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203669726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f859600dbb1ebd74bbe75e75eabe7b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 399325129}
+--- !u!114 &203669729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203669726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafa981006b8d4a49bf74cdc1363b76e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &334139619
 GameObject:
   m_ObjectHideFlags: 0
