@@ -43,7 +43,7 @@ public class pManager : MonoBehaviour
     }
     public void nextScene() {
         Destroy(player);
-        SceneManager.LoadScene("TESTING_0");
+        SceneManager.LoadScene("TESTING_ROOM");
     }
 
     public void nextSceneGlycolysis() {
