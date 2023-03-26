@@ -26,7 +26,7 @@ public class TESTING_MENU : MonoBehaviour
         }
 
         if (cango1 && cango2) {
-            SceneManager.LoadScene("TESTING");
+            SceneManager.LoadScene("TESTING_NETWORK");
         }
     }
 }

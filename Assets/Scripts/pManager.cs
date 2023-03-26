@@ -33,7 +33,7 @@ public class pManager : MonoBehaviour
         {
             Destroy(obj);
         }
-        SceneManager.LoadScene("TESTING");
+        SceneManager.LoadScene("TESTING_NETWORK");
     }
 
     public void exitApp() {
