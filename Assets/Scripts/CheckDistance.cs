@@ -1,18 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using TMPro;
 public class CheckDistance : MonoBehaviour
     {
+        TextMeshPro textMeshPro;
+
+        void Start()
+        {
+            textMeshPro = GetComponent<TextMeshPro>();
+        }
+
         public void PlayerWithinDistance()
         {
-            Debug.Log("Player is within 2 meters of " + gameObject.name);
-            // Do something when player is within 2 meters
+            textMeshPro.enabled = true;
         }
 
         public void PlayerOutOfRange()
         {
-            Debug.Log("Player is out of range of " + gameObject.name);
-            // Do something when player is out of range
+            textMeshPro.enabled = false;
         }
     }
