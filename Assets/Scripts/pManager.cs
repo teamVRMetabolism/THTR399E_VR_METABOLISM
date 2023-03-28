@@ -47,7 +47,7 @@ public class pManager : MonoBehaviour
     }
 
     public void nextSceneGlycolysis() {
-        SceneManager.LoadScene("TESTING_1");
+        SceneManager.LoadScene("TESTING_ROOM_2");
     }
 
 
