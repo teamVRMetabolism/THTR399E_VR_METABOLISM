@@ -13,6 +13,8 @@ insert description here
 | Asset | Purpose |
 | ------ | ------ |
 | CleanNetwork.fbx | A static implementation of our network on Glycolysis and Gluconeogenesis |
+| Chemistry laboratory | laboratory environment https://assetstore.unity.com/packages/3d/environments/industrial/chemistry-laboratory-188274 |
+
 
 ## Prerequisites / Packages
 - Unity 2020.3.7f
@@ -50,7 +52,7 @@ Pennefather, Patrick
 
 - Jerry Wang - Developer
 - Indira Sowy - Developer
-- David Kim - Developer.
+- David Kim - Developer
 - Buz Ergeneci - 3D Designer
 - Katie Baldakin - 3D Designer
 - Nika Moradi - 3D Designer
