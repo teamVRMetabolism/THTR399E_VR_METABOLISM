@@ -373,17 +373,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 120761722}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 296527937}
-  m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 10.39, y: 6.5}
+  m_AnchoredPosition: {x: 121.94363, y: -62.76281}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &126118663
@@ -473,17 +473,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 126118663}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1136422123}
-  m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 8.63, y: 1.06}
+  m_AnchoredPosition: {x: 94.53357, y: -147.48483}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &187318923
@@ -696,17 +696,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 262502299}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 490899597}
-  m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 8.37, y: 19.47}
+  m_AnchoredPosition: {x: 90.484344, y: 139.23064}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &296527936
@@ -794,7 +794,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -929,17 +929,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 304623657}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 339634776}
-  m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 8.19, y: 13.71}
+  m_AnchoredPosition: {x: 87.681046, y: 49.52501}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &334139619
@@ -1029,17 +1029,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 334139619}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -9.51}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 12.303379}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1332832573}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.53, y: 8.8}
+  m_AnchoredPosition: {x: -31.615015, y: -26.94284}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &339634775
@@ -1127,7 +1127,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1262,17 +1262,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 357934883}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 725475865}
-  m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 3.3, y: 5.64}
+  m_AnchoredPosition: {x: 11.524684, y: -76.156364}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &399325129 stripped
@@ -1432,17 +1432,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 418590600}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1312909444}
-  m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 5.16, y: 3.46}
+  m_AnchoredPosition: {x: 40.492134, y: -110.10746}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &490899596
@@ -1530,7 +1530,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1663,7 +1663,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1931,17 +1931,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541983711}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1101109290}
-  m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -1.17, y: 17.13}
+  m_AnchoredPosition: {x: -58.09064, y: 102.78771}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &547689674
@@ -2368,17 +2368,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 610882622}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 524641099}
-  m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 2.02, y: 6.83}
+  m_AnchoredPosition: {x: -8.4099045, y: -57.623413}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &611959973 stripped
@@ -2687,7 +2687,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &633436315
 PrefabInstance:
@@ -8418,7 +8418,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: a69396fa118adca4ca8d11338f3e29ac, type: 2}
     - target: {fileID: 2445888753458685408, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.22445533
+      value: -0.22445534
       objectReference: {fileID: 0}
     - target: {fileID: 2445888753458685408, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
       propertyPath: m_LocalRotation.x
@@ -8426,7 +8426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2445888753458685408, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.6705369
+      value: 0.67053694
       objectReference: {fileID: 0}
     - target: {fileID: 2445888753458685408, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
       propertyPath: m_LocalRotation.z
@@ -15651,6 +15651,11 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
+--- !u!4 &633436316 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3484571946793333474, guid: 9c8d71f1682391f4a99ca2aca8e32f92, type: 3}
+  m_PrefabInstance: {fileID: 633436315}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &679158435
 GameObject:
   m_ObjectHideFlags: 0
@@ -16045,7 +16050,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -16178,7 +16183,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -16427,17 +16432,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904524450}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1553241574}
-  m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.03, y: 20.23}
+  m_AnchoredPosition: {x: -40.336395, y: 151.0668}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &914167134
@@ -16527,17 +16532,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 914167134}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 840312463}
-  m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.26, y: 18.71}
+  m_AnchoredPosition: {x: -35.819965, y: 127.39448}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1003342701
@@ -16713,7 +16718,7 @@ Transform:
   m_LocalScale: {x: 1.4929, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 90, y: 180, z: -148.597}
 --- !u!1 &1101109289
 GameObject:
@@ -16800,7 +16805,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -17031,7 +17036,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -17250,11 +17255,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1211950384}
   m_LocalRotation: {x: 0.000000067179435, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.45, y: 9.31, z: -12.1}
-  m_LocalScale: {x: 1.416, y: 1.416, z: 1.416}
+  m_LocalPosition: {x: -17.287025, y: -19.000145, z: -28.03302}
+  m_LocalScale: {x: 22.05264, y: 22.05264, z: 22.05264}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1230128678 stripped
 Transform:
@@ -17379,7 +17384,7 @@ RectTransform:
   m_Children:
   - {fileID: 1484933944}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 148.825, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -17552,17 +17557,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1274947607}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 861316213}
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 2.46, y: 21.93}
+  m_AnchoredPosition: {x: -1.5573883, y: 177.54245}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1276018751
@@ -17729,7 +17734,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -18334,17 +18339,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514992322}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1961380013}
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 5.8, y: 21.9}
+  m_AnchoredPosition: {x: 50.459435, y: 177.07521}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1528793194
@@ -18511,7 +18516,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -18725,17 +18730,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1658944031}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1968666123}
-  m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 7.95, y: 16.33}
+  m_AnchoredPosition: {x: 83.943306, y: 90.328606}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1698767926
@@ -18825,17 +18830,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1698767926}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -9.51}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 12.303379}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 1932531649}
-  m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -4.83, y: 12.22}
+  m_AnchoredPosition: {x: -115.09111, y: 26.3199}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1699903795
@@ -19088,7 +19093,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2341925176024912446, guid: ae0b09afc43b0dc4998dbe7cb0a67a2c, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2341925176024912446, guid: ae0b09afc43b0dc4998dbe7cb0a67a2c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19423,17 +19428,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1923037465}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -10.4}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -1.5573809}
+  m_LocalScale: {x: 0.15573898, y: 0.15573898, z: 0.15573898}
   m_Children:
   - {fileID: 2025908971}
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_Father: {fileID: 633436316}
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 3.47, y: -2.67}
+  m_AnchoredPosition: {x: 14.172251, y: -205.57544}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1932531648
@@ -19521,7 +19526,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextScene
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -19818,7 +19823,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -20030,7 +20035,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -20258,7 +20263,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 629985615}
         m_TargetAssemblyTypeName: pManager, Assembly-CSharp
-        m_MethodName: nextSceneGlycolysis
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
