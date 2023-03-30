@@ -47,6 +47,7 @@ insert description here
 
 ### Faculty:
 Pennefather, Patrick
+Rogers, Lindsay
 
 ### Current THTR399E_VR_METABOLISM Team:
 
