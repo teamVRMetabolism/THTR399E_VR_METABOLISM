@@ -9,7 +9,7 @@ public class playerController : MonoBehaviour
 {
     public SteamVR_Action_Vector2 input;
     public SteamVR_Action_Vector2 input2;
-    public float speed = 2;
+    public float speed = 1;
     // Update is called once per frame
     void Update()
     {

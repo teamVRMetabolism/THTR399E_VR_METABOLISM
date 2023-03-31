@@ -15320,7 +15320,7 @@ MonoBehaviour:
   input2:
     actionPath: /actions/default/in/movement_y
     needsReinit: 0
-  speed: 2
+  speed: 1
 --- !u!1 &1709653550
 GameObject:
   m_ObjectHideFlags: 0
