@@ -3,7 +3,160 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - alanine aminotransferase
+  - phosphoenolpyruvate carboxykinase (mitochondrion)
+  - glycerol-3-phosphate dehydrogenase (cytosol)
+  - Acyl-CoA Synthetase
+  - transketolase (1)
+  - transketolase (2)
+  - sedoheptulose-7-phosphate
+  - Carnitine (mitochondrion)
+  - phosphoglucose mutase
+  - acetyl CoA (mitochondrion)
+  - B-Hydroxyacyl-CoA (mitochondrion)
+  - Carnitine (cytosol)
+  - Carnitine Acyltransferase 2 (CPT2) (membrane)
+  - glucose-6-phosphatase
+  - Hydroxyacyl-CoA Dehydrogenase
+  - transaldolase
+  - debranching enzyme (specifically, alpha-1,6-glucosidase)
+  - thioesterase
+  - citrate synthase
+  - isocitrate dehydrogenase
+  - succinate
+  - acyl-KS
+  - dihydroxyacetone phosphate
+  - B-ketoacyl-ACP synthase
+  - erythrose-4-phosphate
+  - Acyl-CoA Acetyltransferase (Thiolase)
+  - Palmitic Acid (C16 Fatty Acid) (cytosol)
+  - ribulose-5-phosphate
+  - malate dehydrogenase (mitochondrion)
+  - succinyl CoA
+  - fumarate (mitochondrion)
+  - acetyl-CoA carboxylase
+  - glycogen synthase
+  - malate dehydrogenase (cytosol)
+  - phosphopentose isomerase
+  - citrate (cytosol)
+  - oxaloacetate (cytosol)
+  - citrate lyase
+  - acyl-ACP
+  - gluconolactonase
+  - oxaloacetate (mitochondrion)
+  - phosphopentose epimerase
+  - phosphoenolpyruvate carboxykinase (cytosol)
+  - trans-delta2-enoyl-ACP
+  - Fatty Acyl-Coenzyme A (Acyl-CoA) (mitochondrion)
+  - Fatty Acyl-Coenzyme A (Acyl-CoA) (cytosol)
+  - malate (cytosol)
+  - succinate dehydrogenase
+  - B-ketoacyl-ACP
+  - malonyl CoA
+  - isocitrate
+  - pyruvate dehydrogenase complex
+  - alpha-ketoglutarate dehydrogenase complex
+  - B-ketoacyl-ACP reductase
+  - pyruvate carboxylase
+  - Enoyl-CoA Hydratase
+  - glucose-1-phosphate
+  - xylulose-5-phosphate
+  - fumarase (mitochondrion)
+  - succinyl CoA synthetase
+  - Carnitine Acyltransferase 1 (CPT1)
+  - B-hydroxyacyl-ACP dehydratase
+  - Trans-D2-Enoyl-CoA (mitochondrion)
+  - glucose-6-phosphate dehydrogenase
+  - aconitase
+  - glycogen (n+1)
+  - 6-phosphoglucono-delta-lactone
+  - Acyl-Carnitine (membrane)
+  - acetyl CoA (cytosol)
+  - UDP-glucose
+  - glycogen (n residues)
+  - palmitate
+  - Acyl-CoA Dehydrogenase
+  - citrate (mitochondrion)
+  - fructose-1,6-bisphosphatase
+  - D-B-hydroxyacyl-ACP
+  - Carnitine-Acyl-Carnitine Cotransporter (membrane)
+  - glutamate dehydrogenase
+  - aldolase
+  - argininosuccinate synthetase
+  - aspartate aminotransferase (mitochondrion)
+  - enolase
+  - phosphohexose isomerase
+  - ornithine transcarbamoylase
+  - HMG-CoA lyase
+  - argininosuccinase
+  - HMG CoA Synthase
+  - glutaminase
+  - lactate dehydrogenase
+  - triose phosphate isomerase
+  - phosphofructokinase-1
+  - arginase
+  - aspartate-glutamate transporter
+  - phosphoglycerate kinase
+  - thiolase II
+  - 6-phosphogluconate dehydrogenase
+  - malate-alpha-ketoglutarate transporter
+  - fumarase (cytosol)
+  - D-beta-hydroxybutyrate dehydrogenase
+  - pyruvate kinase
+  - carbamoyl phosphate synthetase I
+  - hexokinase
+  - glyceraldehyde-3-phosphate dehydrogenase
+  - aspartate aminotransferase (cytosol)
+  - phosphoglycerate mutase
+  - acetoacetate decarboxylase
+  - pyruvate (mitochondrion)
+  - Acyl-Carnitine (mitochondrion)
+  - glycogen phosphorylase
+  - alpha-ketoglutarate (mitochondrion)
+  - glutamate (cytosol)
+  - ornithine (cytosol)
+  - glutamate (mitochondrion)
+  - urea
+  - aspartate (mitochondrion)
+  - arginine
+  - acetoacetate
+  - acetone
+  - fructose-1,6-bisphosphate
+  - acetoacetyl CoA
+  - alpha-ketoglutarate (cytosol)
+  - D-beta-hydroxybutyrate
+  - citrulline (cytosol)
+  - pyruvate (cytosol)
+  - 6-phosphogluconate
+  - 3-phosphoglycerate
+  - beta-hydroxy-beta-methylglutaryl-CoA (HMG-CoA)
+  - argininosuccinate
+  - citrulline (mitochondrion)
+  - lactate
+  - 1,3-bisphosphoglycerate
+  - ornithine (mitochondrion)
+  - carbamoyl phosphate
+  - glutamine (mitochondrion)
+  - 2-phosphoglycerate
+  - fumarate (cytosol)
+  - glyceraldehyde-3-phosphate
+  - fructose-6-phosphate
+  - glucose-6-phosphate
+  - NH4+
+  - phosphoenolpyruvate (cytosol)
+  - glucose
+  - aspartate (cytosol)
+  - malate (mitochondrion)
+  - UDP-glucose pyrophosphorylase
+  - Ketoacyl-CoA (mitochondrion)
+  - ribose-5-phosphate
+  - glycerol-3-phosphate
+  - enoyl-ACP reductase
+  - alanine (mitochondrion)
+  - phosphoenolpyruvate (mitochondrion)
+  - glutamine (cytosol)
+  - pyruvate
   layers:
   - Default
   - TransparentFX
