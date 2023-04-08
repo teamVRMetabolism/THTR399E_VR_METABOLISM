@@ -163,6 +163,16 @@ TagManager:
   - NADH(1)
   - lactate(1)
   - NAD+(1)
+  - glucose_
+  - G6P_
+  - F6P_
+  - F1,6BP_
+  - GADP_
+  - DHAP_
+  - 1,3PG_
+  - 3PG_
+  - 2PG_
+  - PEP_
   layers:
   - Default
   - TransparentFX

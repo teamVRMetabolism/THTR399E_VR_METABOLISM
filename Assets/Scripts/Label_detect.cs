@@ -29,6 +29,6 @@ public class Label_detect : MonoBehaviour
                 collidedMolecule.GetComponent<Rigidbody>().isKinematic = true;
                 collidedMolecule.position = controller.originalPositions[correctTag];
             }
-        }
+        } 
     }
 }
