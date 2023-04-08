@@ -157,6 +157,12 @@ TagManager:
   - phosphoenolpyruvate (mitochondrion)
   - glutamine (cytosol)
   - pyruvate
+  - NADH
+  - NAD+
+  - pyruvate(1)
+  - NADH(1)
+  - lactate(1)
+  - NAD+(1)
   layers:
   - Default
   - TransparentFX
