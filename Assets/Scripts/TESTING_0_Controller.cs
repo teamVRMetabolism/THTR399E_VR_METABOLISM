@@ -7,6 +7,7 @@ public class TESTING_0_Controller : MonoBehaviour
 {
     public SteamVR_Action_Boolean resetButton; 
     public SteamVR_Action_Boolean menuReturn;
+    public SteamVR_Action_Boolean moveMolecules;
     public GameObject player;
     public List<Transform> randomPositions; // The list of positions to randomly assign to the objects
 
@@ -40,8 +41,12 @@ public class TESTING_0_Controller : MonoBehaviour
             Destroy(player);
             returnToMenu();
         }
+        if (moveMolecules.stateDown) {
+            MoveMoleculesToOriginalPosition();
+        }
     }
 
+    //helper to randomize the spot where we spawn the molecules
     private Vector3 GetRandomPosition()
     {
         Vector3 randomPos = randomPositions[Random.Range(0, randomPositions.Count)].position;
@@ -53,7 +58,21 @@ public class TESTING_0_Controller : MonoBehaviour
 
         return randomPos;
     }
+
     
+    void MoveMoleculesToOriginalPosition() {
+        // Move each molecule to its original position
+        foreach (Transform child in transform)
+        {
+            Vector3 originalPos;
+            if (originalPositions.TryGetValue(child.tag, out originalPos))
+            {
+                child.position = originalPos;
+            }
+        }   
+    }
+    
+    //reset the scene
     void ResetScene() {
         Object[] objects = FindObjectsOfType(typeof(GameObject));
 
@@ -65,6 +84,7 @@ public class TESTING_0_Controller : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
+    //return to network
     void returnToMenu() {
         SceneManager.LoadScene("TESTING_NETWORK");
         

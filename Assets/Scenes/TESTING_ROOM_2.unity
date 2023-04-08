@@ -8076,6 +8076,9 @@ MonoBehaviour:
   menuReturn:
     actionPath: /actions/default/in/menuReturn
     needsReinit: 0
+  moveMolecules:
+    actionPath: /actions/default/in/InteractUI
+    needsReinit: 0
   player: {fileID: 1701284338}
   randomPositions:
   - {fileID: 2066502225}
