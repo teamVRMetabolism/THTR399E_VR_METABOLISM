@@ -4,14 +4,19 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using Valve.VR;
 
+//inherits from baseInputModule which process events related to pointer-based input
 public class VRInputModule : BaseInputModule
 {
 
+    //camera used for raycasting
     public Camera m_Camera;
+    //source of vr input (right hand)
     public SteamVR_Input_Sources m_TargetSource;
+    //trigger click 
     public SteamVR_Action_Boolean m_ClickAction;
-
+    //current selected game object
     private GameObject m_CurrentObject = null;
+    //store event about pointer related data
     private PointerEventData m_Data = null;
 
 

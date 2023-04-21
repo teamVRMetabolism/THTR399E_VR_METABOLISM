@@ -7,14 +7,6 @@ public class Label_detect : MonoBehaviour
     public string correctTag; // set this in the Inspector window
     public string correctTag2; // set this in the Inspector window
 
-    void Start() {
-        
-    }
-
-    void Update() {
-        
-    }
-
     
     private void OnCollisionEnter(Collision other) {
         Debug.Log("collided --------------------------------------------");

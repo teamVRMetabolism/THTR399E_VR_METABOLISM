@@ -19,12 +19,14 @@ public class pManager : MonoBehaviour
     }
 
     void Update() {
+        //resets the scene upon pressing the reset button
         if (resetButton.stateDown) {
             Destroy(player);
             ResetScene();
         }
     }
 
+    //find all objects in scene then destroys everything before reloading
     void ResetScene() {
         Object[] objects = FindObjectsOfType(typeof(GameObject));
 
@@ -36,16 +38,20 @@ public class pManager : MonoBehaviour
         SceneManager.LoadScene("TESTING_NETWORK");
     }
 
+    //exit
     public void exitApp() {
         StopAllCoroutines();
         System.Diagnostics.Process.GetCurrentProcess().Kill();
         Application.Quit();
     }
+
+    //move to fermentation
     public void nextScene() {
         Destroy(player);
         SceneManager.LoadScene("TESTING_ROOM");
     }
 
+    //move to glycolysis
     public void nextSceneGlycolysis() {
         SceneManager.LoadScene("TESTING_ROOM_2");
     }

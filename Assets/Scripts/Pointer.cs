@@ -40,6 +40,8 @@ public class Pointer : MonoBehaviour
         m_LineRenderer.SetPosition(1, endPosition);
     }
 
+    //This method creates a raycast by shooting a ray from the position and forward direction of a transform,
+// and returns information about the first object that the ray hits up to a specified length.
     private RaycastHit CreateRaycast(float length) {
         RaycastHit hit;
         Ray ray = new Ray(transform.position, transform.forward);

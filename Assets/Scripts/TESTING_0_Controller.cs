@@ -33,14 +33,17 @@ public class TESTING_0_Controller : MonoBehaviour
     }
     void Update()
     {
+        //reset
         if (resetButton.stateDown) {
             Destroy(player);
             ResetScene();
         }
+        //back to network
         if (menuReturn.stateDown) {
             Destroy(player);
             returnToMenu();
         }
+        //click molecules into place
         if (moveMolecules.stateDown) {
             MoveMoleculesToOriginalPosition();
         }
