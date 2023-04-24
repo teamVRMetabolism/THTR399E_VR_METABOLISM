@@ -3,7 +3,8 @@
 Testing VR with 3D Metabolism!
 
 ## Project Description
-insert description here
+THTRE399e 2023W2 course project. A transformative virtual reality experience for learning about metabolism in an interactive and 
+exciting learning environment!
 
 ## External Assets
 
