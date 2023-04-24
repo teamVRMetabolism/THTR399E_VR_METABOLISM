@@ -33,10 +33,13 @@ insert description here
 
 ## Building / Deploying
 
-1. Steps
-2. to
-3. build
-4. and / or deploy
+1. clone this repository (Branch 3DMVR) 
+2. git clone -b 3DMVR [link]
+3. open in Unity 2020.3.7f
+4. connect the oculus to the computer via link cable .
+5. check that SteamVR is tracking the headset and controllers.
+6. Navigate to TESTING_MENU under scenes folder.
+7. Press play
 
 ## Contributing (Optional) 
 
@@ -47,6 +50,7 @@ insert description here
 
 ### Faculty:
 Pennefather, Patrick
+
 Rogers, Lindsay
 
 ### Current THTR399E_VR_METABOLISM Team:
